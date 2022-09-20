@@ -1,0 +1,7 @@
+Node,Product,Scenario_0,Scenario_1,Scenario_2,Scenario_3
+S1,P1,1,0,1,1
+S1,P2,1,0,1,1
+S2,P1,1,1,0,1
+S2,P2,1,1,0,1
+S3,P1,1,1,1,0
+S3,P2,1,1,1,0
